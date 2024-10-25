@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Stanley Theodore
+- 👋 Hi, I’m Stanley Woodrome
 - 👀 I’m interested in Everything under the Sun
-- 🌱 I’m currently learning Pyhton, HTML, CSS and etc. 
-- 💞️ I’m looking to collaborate on nothing at the moment. 
+- 🌱 I’m currently learning Javascript. 
+- 💞️ I’m looking to collaborate possibly an open source project in finance. 
 - 📫 How to reach me standrome@yahoo.com
 
 <!---
